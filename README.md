@@ -1,4 +1,4 @@
-# Contents Limit Insurrance test assignment for Nude Solutions
+# Contents Limit Insurance test assignment for Nude Solutions
 
 ## Solution (VS 2022 Community):
 ![image](https://github.com/user-attachments/assets/15a46506-ccbe-4ab5-b4f6-4a5e5b450ae2)
