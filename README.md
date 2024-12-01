@@ -1,9 +1,5 @@
 # Contents Limit Insurrance test assignment for Nude Solutions
 
-## Requirements:
-![image](https://github.com/user-attachments/assets/62078540-564e-414e-a84b-3dfd51d3fc79)
-![image](https://github.com/user-attachments/assets/bfaad406-e9b0-4e7e-8f8d-18e859ad6f2d)
-
 ## Solution (VS 2022 Community):
 ![image](https://github.com/user-attachments/assets/15a46506-ccbe-4ab5-b4f6-4a5e5b450ae2)
 
