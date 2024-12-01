@@ -3,6 +3,14 @@
 ## Solution (VS 2022 Community):
 ![image](https://github.com/user-attachments/assets/15a46506-ccbe-4ab5-b4f6-4a5e5b450ae2)
 
+## DB 
+![image](https://github.com/user-attachments/assets/503a190a-a37f-4676-aebe-9f7d9e216648)
+Exported collection files:
+
+[Category.json](https://github.com/user-attachments/files/17967596/Category.json)
+
+[Item.json](https://github.com/user-attachments/files/17967599/Item.json)
+
 ## The API runs with the Swagger:
 ![image](https://github.com/user-attachments/assets/ec9c5b33-08d4-4ae2-b4f6-2168fa09ac4a)
 
