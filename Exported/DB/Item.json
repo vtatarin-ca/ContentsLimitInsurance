@@ -1,0 +1,57 @@
+[{
+  "_id": "33df4e91-842f-4322-b0ae-7edf720b7efa",
+  "name": "Misc",
+  "value": {
+    "$numberDecimal": "999"
+  },
+  "categoryId": "23feba48-502d-46c3-a1fc-ff06568db94e"
+},{
+  "_id": "de4be032-6a6d-454e-8dea-f899c161e8c2",
+  "name": "Flatware",
+  "value": {
+    "$numberDecimal": "502.99"
+  },
+  "categoryId": "23feba48-502d-46c3-a1fc-ff06568db94e"
+},{
+  "_id": "326fd19c-dd93-4900-83eb-3d0969bc6be1",
+  "name": "Jeans",
+  "value": {
+    "$numberDecimal": "29"
+  },
+  "categoryId": "70bac187-b86d-4fa5-9306-090f4662b240"
+},{
+  "_id": "ea085bc3-5815-42b8-8eaa-3a153f70f78e",
+  "name": "TV",
+  "value": {
+    "$numberDecimal": "299.00"
+  },
+  "categoryId": "21207a99-85d0-4f89-a560-8d0e12081099"
+},{
+  "_id": "23e5eff4-19ce-4644-9fd2-fd3118ac1d42",
+  "name": "Shirt",
+  "value": {
+    "$numberDecimal": "56.00"
+  },
+  "categoryId": "70bac187-b86d-4fa5-9306-090f4662b240"
+},{
+  "_id": "2592f170-26a6-47e6-ac71-fff94987676d",
+  "name": "Spoon Set",
+  "value": {
+    "$numberDecimal": "1230.00"
+  },
+  "categoryId": "23feba48-502d-46c3-a1fc-ff06568db94e"
+},{
+  "_id": "f43ccac6-57c6-4708-9c33-e1e86db46fa4",
+  "name": "Misc 2",
+  "value": {
+    "$numberDecimal": "12.00"
+  },
+  "categoryId": "23feba48-502d-46c3-a1fc-ff06568db94e"
+},{
+  "_id": "66d97e85-4025-4981-83a5-fd0bba1b1cdc",
+  "name": "Gameboy",
+  "value": {
+    "$numberDecimal": "788.55"
+  },
+  "categoryId": "21207a99-85d0-4f89-a560-8d0e12081099"
+}]
