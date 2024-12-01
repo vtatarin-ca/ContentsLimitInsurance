@@ -34,6 +34,7 @@
       let categoryIdSelect = ref("");
 
       const formatValue = () => {
+        // Format input by parse to float and add "$" sign at the first place
         const numericValue = parseFloat(valueInput.value.replace(/[^0-9.]/g, "")) || 0;
         valueInput.value = `$${Number(numericValue).toFixed(2)}`;
       };
@@ -60,7 +61,6 @@
             value: valueInput.value.replaceAll("$", ""),
             categoryId: categoryIdSelect.value,
           };
-          console.log('handleAdd = ' + JSON.stringify(addItemModel));
           emit("addItem", addItemModel);
 
           valueInput.value = "0";

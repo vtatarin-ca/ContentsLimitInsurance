@@ -38,7 +38,7 @@
     },
     setup() {
       // Reactive variables
-      const items = ref([]); // Holds the list of items fetched from the API
+      const items = ref([]);
       const newItem = ref({
         name: "",
         value: null,
@@ -64,7 +64,7 @@
       const onDelete = async (id) => {
         try {
           await apiDeleteItem(id);
-          items.value = items.value.filter((item) => item.id !== id); // Remove the item from the list
+          items.value = items.value.filter((item) => item.id !== id);
         } catch (error) {
           console.error("Error deleting item:", error);
         }
@@ -78,7 +78,7 @@
             acc[category] = { items: [], total: 0 };
           }
           acc[category].items.push(item);
-          acc[category].total += item.value; // Calculate category total
+          acc[category].total += item.value;
           return acc;
         }, {});
 
@@ -88,7 +88,7 @@
         // Rebuild the grouped object in sorted order
         const sortedGrouped = sortedCategories.reduce((acc, category) => {
           acc[category] = grouped[category];
-          acc[category].items.sort((a, b) => a.value - b.value); // Sort items within each category by value
+          acc[category].items.sort((a, b) => a.value - b.value);
           return acc;
         }, {});
 
